@@ -55,7 +55,7 @@
     "@types/supertest": "6.0.2",
     "@typescript-eslint/eslint-plugin": "8.24.1",
     "@typescript-eslint/parser": "8.24.1",
-    "eslint": "8.57.1",
+    "eslint": "9.21.0",
     "eslint-plugin-fp": "2.3.0",
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-prettier": "5.2.3",
